@@ -1,0 +1,16 @@
+{
+  "global": {
+    "color": {
+      "value": "#",
+      "type": "color"
+    }
+  },
+  "Remy": {},
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global",
+      "Remy"
+    ]
+  }
+}
